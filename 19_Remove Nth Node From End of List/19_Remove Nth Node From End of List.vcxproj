@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2ad2eaf6-11c9-4a82-b65d-354e66cff76a}</ProjectGuid>
-    <RootNamespace>LeetCodeTrain</RootNamespace>
+    <ProjectGuid>{ad11587f-5f02-4bf5-909a-fb46655cb381}</ProjectGuid>
+    <RootNamespace>My19RemoveNthNodeFromEndofList</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,13 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="LeetCodeTrain.cpp" />
-    <ClCompile Include="RemoveNthNodeFromEndofList.cpp" />
-    <ClCompile Include="solution.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="RemoveNthNodeFromEndofList.h" />
-    <ClInclude Include="solution.h" />
+    <ClCompile Include="19_Remove Nth Node From End of List.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
